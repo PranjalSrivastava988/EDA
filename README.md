@@ -11,7 +11,6 @@ A comprehensive exploratory data analysis of the UCI MAGIC04 Gamma Telescope dat
 This project provides an in-depth analysis of the MAGIC Gamma Telescope dataset, which contains 19,020 samples of simulated gamma and hadron events in high-energy gamma astronomy. The goal is to distinguish gamma (signal) from hadron (background) events using their characteristic patterns.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/magic-gamma-analysis/main/images/pca_visualization.png" width="500">
   <br>
   <em>PCA visualization showing separation between gamma and hadron events</em>
 </p>
@@ -84,12 +83,12 @@ from magic_analysis import load_and_clean_data, plot_correlation_heatmap
 
 ### Feature Distributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/magic-gamma-analysis/main/images/feature_distributions.png" width="700">
+ 
 </p>
 
 ### Correlation Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/magic-gamma-analysis/main/images/correlation.png" width="500">
+  
 </p>
 
 ## 🔬 Analysis Components
